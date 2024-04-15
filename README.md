@@ -41,4 +41,4 @@ This function sends an input string to the Gemini Pro model of the GenAI API, wh
 
 The final part of the code uses Streamlit to create a simple web interface. It allows users to paste a job description, upload their resume as a PDF, and submit it for analysis. If the "Submit" button is clicked and a file is uploaded, the application processes the uploaded resume, sends it along with the job description to the Gemini model, and displays the model's response on the web page.
 
-![alt text](data\ats_archi.png "Architectural Diagram of brief overview of the project")
+![alt text](data/ats_archi.png "Architectural Diagram of brief overview of the project")
